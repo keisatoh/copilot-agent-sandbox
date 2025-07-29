@@ -4,5 +4,14 @@
       "type": "http",
       "url": "https://api.githubcopilot.com/mcp/"
     }
+  },
+  "github_projects": {
+    "api_version": "2022-11-28",
+    "base_url": "https://api.github.com/graphql",
+    "default_status": "Todo",
+    "project_settings": {
+      "auto_register_issues": true,
+      "auto_register_prs": false
+    }
   }
 }
